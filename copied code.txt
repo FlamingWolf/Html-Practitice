@@ -1,1 +1,2 @@
 [value="Special Code"]
+ onclick="clear()" onclick="alert('BOOOOO')"
