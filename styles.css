@@ -5,7 +5,16 @@ h1{
 p{
     text-transform: uppercase;
     text-align: center;
-    font-size: medium;
+    font-size: 15pt;
+    font-weight: 100pt;
+}
+
+.demo{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 150pt;
+    transform: translateX(100pt);
+    transform: translateY(25pt);
 }
 
 html{
