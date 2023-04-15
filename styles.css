@@ -1,4 +1,13 @@
+h1{
+    text-align: center;
+}
+
 body{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 12;
+    text-align: center;
+}
+
+p{
+    text-transform: uppercase;
+    text-align: center;
+
 }
