@@ -12,7 +12,7 @@ html{
 }
 
 
-input[type=button, value="Special Code"]{
+input[type=button]{
     background-color: powderblue;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
